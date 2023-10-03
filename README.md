@@ -29,6 +29,15 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/javierdamiani">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=javierdamiani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <! --- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
