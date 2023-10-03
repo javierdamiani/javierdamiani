@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://javierdamiani.com">Javier Damiani</a> 👋</h1>
 </div>
-<img src="https://imgur.com/a/Okt30kF">
+<img src="https://i.imgur.com/JFk5lWW.png">
 ### Hi there 👋
 
 My name is Javier Damiani, I'm a frontend developer from Perú.
