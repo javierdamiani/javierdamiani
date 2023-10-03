@@ -37,6 +37,7 @@
 <a href="mailto:javierdamiani74@gmail.com"><img src="https://img.shields.io/badge/-javierdamiani74@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/jav.damiani/"><img src="https://img.shields.io/badge/-@jav.damiani-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://github.com/javierdamiani/"><img src="https://img.shields.io/badge/-javierdamiani-%23121011.svg?style=flat&logo=github&logoColor=white"/></a>
-
+<img src="https://img.shields.io/badge/JavierDamiani-%235865F2.svg?style=flat&logo=discord&logoColor=white"/>
+  
 </p>
 
