@@ -29,16 +29,14 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-### Hi there 👋
-
-My name is Javier Damiani, I'm a frontend developer from Perú.
-
-### ⚙️ &nbsp;GitHub Analytics
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://github.com/javierdamiani">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=javierdamiani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=javierdamiani&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<a href="https://javierdamiani.com"><img src="https://img.shields.io/badge/-javierdamiani.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/javierluisdamianiarellano/"><img src="https://img.shields.io/badge/-Javier Damiani Arellano-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:javierdamiani74@gmail.com"><img src="https://img.shields.io/badge/-javierdamiani74@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/jav.damiani/"><img src="https://img.shields.io/badge/-@jav.damiani-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://github.com/javierdamiani/"><img src="https://img.shields.io/badge/-javierdamiani-%23121011.svg?style=flat&logo=github&logoColor=white"/></a>
+
 </p>
+
