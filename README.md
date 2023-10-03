@@ -9,7 +9,7 @@
 🎓 &nbsp;My background includes a degree in Business Administration and ongoing studies in Electronic Business.\
 🎮 &nbsp;When I'm not at the keyboard, you'll find me immersed in virtual football with Football Manager or indulging in some Call of Duty Mobile action.\
 😺 &nbsp;I'm a cat lover, and my feline friend Igor is my faithful sidekick.\
-🍵 &nbsp;I like to unwind with a good cup of mate while listening to music.\
+🧉 &nbsp;I like to unwind with a good cup of mate while listening to music.\
 💬 &nbsp;I'm always up for a chat, so feel free to get in touch! You can reach me at javierdamiani74@gmail.com or connect with me on social media.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
