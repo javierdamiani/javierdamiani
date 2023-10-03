@@ -34,7 +34,7 @@
 <p align="center">
 <a href="https://github.com/javierdamiani">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=javierdamiani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <! --- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+  <! --- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=javierdamiani&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -47,6 +47,5 @@
 <a href="https://instagram.com/jav.damiani/"><img src="https://img.shields.io/badge/-@jav.damiani-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://github.com/javierdamiani/"><img src="https://img.shields.io/badge/-javierdamiani-%23121011.svg?style=flat&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavierDamiani-%235865F2.svg?style=flat&logo=discord&logoColor=white"/>
-  
 </p>
 
