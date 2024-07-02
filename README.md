@@ -3,7 +3,7 @@
 </div>
 <img src="https://i.imgur.com/JFk5lWW.png">
     
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me 
 
 🚀 &nbsp;I have a lifelong passion for all things computers and enjoy coding. \
 🎓 &nbsp;My background includes a degree in Business Administration and ongoing studies in Electronic Business.\
