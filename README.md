@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/JFk5lWW.png">
     
 ### 👨🏻‍💻 &nbsp;About Me  
-
+    
 🚀 &nbsp;I have a lifelong passion for all things computers and enjoy coding. \
 🎓 &nbsp;My background includes a degree in Business Administration and ongoing studies in Electronic Business.\
 🎮 &nbsp;When I'm not at the keyboard, you'll find me immersed in virtual football with Football Manager or indulging in some Call of Duty Mobile action.\
